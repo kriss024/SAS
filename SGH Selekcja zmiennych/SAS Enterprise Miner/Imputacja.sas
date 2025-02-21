@@ -1,0 +1,12 @@
+data &EM_EXPORT_TRAIN;
+set &EM_IMPORT_DATA;
+array nvar(*) _numeric_;
+do i= 1 to dim(nvar);
+   if missing(nvar(i)) then nvar(i) = 0;
+end;
+array cvar(*) _character_;
+do i= 1 to dim(cvar);
+   if compress(cvar(i)) = '' then cvar(i) = 'Other';
+end;
+drop i;
+run;

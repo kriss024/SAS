@@ -1,0 +1,14 @@
+DATA PD3.Threads;
+	ARRAY Id (10);
+	ARRAY Dane (20);
+	do ObsNum=1 to 10000000;
+		do i=1 to 10;
+			id(i) = round(ranuni(0)*1000000,1);
+		end;
+		do i=1 to 20;
+			Dane(i) = ranuni(0);
+		end;
+		output;
+	end;
+	drop i;
+RUN;

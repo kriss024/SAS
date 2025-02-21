@@ -1,0 +1,4 @@
+data &EM_EXPORT_TRAIN;
+set &EM_IMPORT_DATA;
+keep %EM_INTERVAL_INPUT %EM_TARGET;
+run;

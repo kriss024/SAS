@@ -1,2 +1,0 @@
-# SAS
-SAS code snippets

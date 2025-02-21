@@ -1,0 +1,30 @@
+  1 KUCHNIEWSKA MARZENA          CH 12/05/73
+  1 1197 01/10/01 K      111  254 83.4
+  2 MA£KOWSKI JAROSLAW           P  03/01/73
+  2 1197 01/01/02 M      352   300   73
+  3 KRZYWDA WIES£AW              Z  17/10/74
+  3 1197 01/02/02 M      124   310   51
+  4 PATORA KRZYSZTOF             CH 09/10/74
+  4 1197 01/03/02 M      234   310   51
+  5 BARAN MARCIN                 Z  01/02/76
+  5 1197 30/07/00 M  331.4   224 94.2
+  6 MIKLER JOANNA                U  11/03/75
+  6 1197 05/12/02 K     180   384 57.2
+  7 MACIEJEWSKI STEFAN           CH 03/11/71
+  7 1197 09/01/01 M   62.9     0    0
+  8 OSMAN EL¯BIETA               Z  18/10/75
+  8 1197 05/03/99 K   11.6   318 47.4
+  9 LUCHOWSKI ROBERT             Z  09/07/77
+  9 1197 03/04/99 M   17.7     10    30
+  10 MIRECKA MIROS£AWA            CH 24/06/77
+  10 1197 01/06/99 K   33.3   236 44.1
+  11 OPI£OWSKI MARIAN             CH 12/08/76
+  11 1200 30/09/00 M      430   189 55.5
+  12 KORDYS KRZYSZTOF             CS 02/05/76
+  12 1200 16/12/00 M      240   267   48 
+  13 SZCZYPIOR BO¯ENA             Z  08/07/77
+  13 1200 27/04/01 K      350   142   53
+  14 BÊBENEK TADEUSZ              Z  15/09/72
+  14 1201 07/01/01 M      180   267   46
+  15 ZAJCZYK MAREK                Z  19/05/79
+  15 1201 21/01/01 M      90   324   46
